@@ -1,3 +1,4 @@
 Mudança no VSCode
 Mudança no Git
 Nova linha, desta vez no vscode
+Nova linha que terá conflito
